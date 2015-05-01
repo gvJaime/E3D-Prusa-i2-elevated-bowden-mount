@@ -6,6 +6,9 @@ It features a 40mm fan vent, for proper cooling of the cold end.
 This was designed back in the day where I had access to CATIA, and it was the only 
 CAD program I could use.
 
-The design ended up working quite good, and to this day I still use it.
+The design ended up working quite good, and to this day I still use it. Stls can be downloaded
+here: http://www.thingiverse.com/thing:291792
+
+
 
 FreeCAD migration of the files is to be expected.
