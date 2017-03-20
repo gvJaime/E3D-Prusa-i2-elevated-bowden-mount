@@ -10,5 +10,4 @@ The design ended up working quite good, and to this day I still use it. Stls can
 here: http://www.thingiverse.com/thing:291792
 
 
-
-FreeCAD migration of the files is to be expected.
+All the files were migrated to FreeCAD, approximating the geometries that couldn't be replicated.
